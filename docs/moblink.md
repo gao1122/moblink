@@ -28,8 +28,14 @@
     ]);
 ```
 #### 调用
-页面上有多个元素需要跳转时使用数组方式,仅单个元素时可以使用对象的方式进行初始化
+html
+```html
+    <!-- 在html上添加 -->
+    <script type="text/javascript" src="//f.moblink.mob.com/v2_0_1/moblink.js?appkey=您自己的AppKey"></script>
+```
+javascript
 ```js
+    // 页面上有多个元素需要跳转时使用数组方式,仅单个元素时可以使用对象的方式进行初始化
     //方式1
     MobLink([...])
     //方式2
