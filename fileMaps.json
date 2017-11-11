@@ -1,7 +1,8 @@
 {
-  "main.css": "css/main-4d5ac1f1.css",
-  "main.js": "js/main-4d5ac1f1.js",
+  "images\\moblink.png": "images/moblink-829703bf.png",
+  "main.css": "css/main-8ad7a8a3.css",
+  "main.js": "js/main-8ad7a8a3.js",
   "scss/bootstrap.css": "css/scss/bootstrap-64b0dbba.css",
   "scss/bootstrap.js": "js/scss/bootstrap-64b0dbba.js",
-  "vendors.js": "js/vendors-3888dee9.js"
+  "vendors.js": "js/vendors-e51d136f.js"
 }
