@@ -1,4 +1,4 @@
-<h1 class="bd-title" id="content">MobLink.js</h1>
+<h1 class="bd-title" id="content">MobLink.js - 3.0.1</h1>
 
 ---
 #### 默认浮框
