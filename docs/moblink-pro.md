@@ -14,7 +14,7 @@
 
 
 ```js
-    // MobLink({...},fn,fn.fn)  => 如下:
+    // MobLink({...},fn,fn)  => 如下:
 
     MobLink({
         appkey: config.appkey,
@@ -30,8 +30,8 @@
         },
     },(res,url)=>{
         // 后台配置获取 成功/失败 回调
-        // @ res 后台配置
-        // @ url 生成的跳转链接
+        // @ res 后台配置(失败为status)
+        // @ url 生成的跳转链接(失败为undefined)
 
 
     },(env)=>{
